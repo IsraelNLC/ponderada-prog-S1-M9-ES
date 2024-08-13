@@ -1,6 +1,7 @@
 # Execução do teste
 
 ![image](https://github.com/user-attachments/assets/1dad9e10-c3f8-4b53-b989-cbc951fbed29)
+Teste passou
 
 ![image](https://github.com/user-attachments/assets/33efc465-cebf-40d8-9edf-7e76778d9a62)
 
